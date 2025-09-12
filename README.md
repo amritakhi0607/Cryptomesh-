@@ -1,4 +1,4 @@
-# Cryptomesh
+
 
 ## Project Description
 
@@ -45,3 +45,9 @@ To create a truly decentralized internet infrastructure where network nodes are 
 - Satellite node integration for truly global coverage
 - Quantum-resistant cryptography implementation
 - Full independence from traditional internet infrastructure
+
+Contract details: 0x3b29bA595BF717fDDc633580e13dB985A98401c4
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7390182a-1998-47b1-9a48-1e8128a92e2b" />
+
+
