@@ -4,7 +4,7 @@
 
 Cryptomesh is a decentralized mesh network coordination platform built on Ethereum. It enables nodes to form a trustless, incentivized mesh network where participants can register as network nodes, stake tokens for network participation, and earn rewards based on their contribution to network stability and data routing.
 
-The smart contract manages node registration, staking mechanisms, and reward distribution, creating a self-sustaining ecosystem where network participants are economically incentivized to maintain reliable connections and route data efficiently.
+The smart contract manages node registration, staking mechanisms, and reward distribution, creating a self-sustaining ecosystem where network participants are economically incentivized to maintain reliable connections and route data efficiently and effectively.
 
 ## Project Vision
 
@@ -38,7 +38,7 @@ To create a truly decentralized internet infrastructure where network nodes are 
 - Zero-knowledge proof implementation for privacy-preserving routing
 - AI-powered network optimization and automatic load balancing
 - Support for decentralized applications (dApps) running directly on the mesh
-- Integration with decentralized storage solutions (IPFS, Arweave)
+- Integration with decentralized storage solutions (IPFS, Arweave).
 
 ### Phase 4 (Vision)
 - Global mesh network deployment
